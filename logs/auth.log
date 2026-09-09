@@ -1,0 +1,8 @@
+Sep 09 10:15:01 server sshd[1234]: Failed password for admin from 192.168.1.50 port 44221 ssh2
+Sep 09 10:15:03 server sshd[1235]: Failed password for admin from 192.168.1.50 port 44222 ssh2
+Sep 09 10:15:05 server sshd[1236]: Failed password for admin from 192.168.1.50 port 44223 ssh2
+Sep 09 10:15:07 server sshd[1237]: Failed password for admin from 192.168.1.50 port 44224 ssh2
+Sep 09 10:15:09 server sshd[1238]: Failed password for admin from 192.168.1.50 port 44225 ssh2
+Sep 09 10:20:10 server sshd[1239]: Accepted password for user from 192.168.1.20 port 44230 ssh2
+Sep 09 10:21:12 server sshd[1240]: Failed password for test from 10.0.0.15 port 44231 ssh2
+Sep 09 10:22:15 server sshd[1241]: Accepted password for user from 10.0.0.20 port 44232 ssh2
