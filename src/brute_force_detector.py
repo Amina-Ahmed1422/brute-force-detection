@@ -2,7 +2,7 @@ src/brute_force_detector.py
 import re
 from collections import Counter
 
-LOG_FILE = "../logs/auth.log" THRESHOLD = 5
+LOG_FILE = "logs/auth.log" THRESHOLD = 5
 failed_attempts = []
 
 with open(LOG_FILE, "r") as file:
